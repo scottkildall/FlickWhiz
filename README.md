@@ -4,6 +4,14 @@ FlickWhiz
 by Scott Kildall
 May 20 2014
 
+**File Paths**
+If you don't have this already, create these empty directories at the root level:
+
+data/error
+data/input
+data/output
+data/processed
+
 **Memory**
 First, you'll need to bump up your preferences in Processing to be 2048MB of memory. Refer to the image: **memory_prefs.jpg**
 
